@@ -9,7 +9,7 @@
 /* estilos generales */
 
 body{
-    background-color: #ECEEF3 ;
+    background-color: black ;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -28,7 +28,7 @@ main{
 }
 
 main h2{
-    color: #182941 ;
+    color: whitesmoke ;
     text-align: center;
 }
 
